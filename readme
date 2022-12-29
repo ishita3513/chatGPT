@@ -1,0 +1,9 @@
+To run the files
+we need to go path of client and write 
+npm run dev
+
+
+for running server
+go to server path using cd
+and type
+npm run server
